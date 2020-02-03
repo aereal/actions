@@ -7,5 +7,8 @@
   "private": true,
   "workspaces": [
     "./bump-npm-package-version"
-  ]
+  ],
+  "devDependencies": {
+    "wsrun": "^5.2.0"
+  }
 }
