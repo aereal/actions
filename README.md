@@ -18,17 +18,17 @@ Click the `Use this Template` and provide the new repo details for your action
 
 Install the dependencies  
 ```bash
-$ npm install
+$ yarn
 ```
 
 Build the typescript
 ```bash
-$ npm run build
+$ yarn build
 ```
 
 Run the tests :heavy_check_mark:  
 ```bash
-$ npm test
+$ yarn test
 
  PASS  ./index.test.js
   ✓ throws invalid number (3ms)
